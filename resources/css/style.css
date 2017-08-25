@@ -1,3 +1,34 @@
-*{
+* {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    font-size: 50px;
+    color: white; 
+}
+
+h2 {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: grey;
+    font-size: 21px;
+}
+.copyright {
+    text-align: right;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+video {
+    object-fit: contain;
 }
